@@ -2,7 +2,7 @@
 
 ![Gameplay](screenshot.png)
 
-A Frogger-inspired Turtle Crossing Game built using Python and the Turtle graphics library as part of Angela Yu's **100 Days of Code: The Complete Python Pro Bootcamp**.
+A Frogger-inspired Turtle Crossing Game built using Python and the Turtle graphics library.
 
 ## Features
 
